@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rpal1315
 - 👀 I’m interested in programming
-- 🌱 I’m currently learnin python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - ritankar.pal@outlook.com
 
